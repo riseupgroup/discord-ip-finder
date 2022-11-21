@@ -1,0 +1,1 @@
+@reboot /etc/rg_ipfinder/ip.bash
